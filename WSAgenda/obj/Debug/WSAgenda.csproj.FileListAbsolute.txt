@@ -1,0 +1,4 @@
+C:\Users\workstation\Documents\Visual Studio 2010\Projects\WSAgenda\WSAgenda\bin\WSAgenda.dll
+C:\Users\workstation\Documents\Visual Studio 2010\Projects\WSAgenda\WSAgenda\bin\WSAgenda.pdb
+C:\Users\workstation\Documents\Visual Studio 2010\Projects\WSAgenda\WSAgenda\obj\Debug\WSAgenda.dll
+C:\Users\workstation\Documents\Visual Studio 2010\Projects\WSAgenda\WSAgenda\obj\Debug\WSAgenda.pdb
